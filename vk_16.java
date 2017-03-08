@@ -22,7 +22,7 @@ public class HelloWorld{
          for(int i=0;i<ch.length;i++)
          {
              result^=ch[i];
-             System.out.print(result);
+             //System.out.print(result);
          }return result;
      }
 }
